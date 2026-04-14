@@ -30,6 +30,30 @@ Este script tem como objetivo otimizar a conectividade de rede em sistemas Windo
 
 ---
 
+1. ▶️ Como Executar
+
+Clique com o botão direito no arquivo:
+Script WINDOWS.bat
+
+2. Execute como Administrador
+
+⚠️ Requisitos
+. Windows 10 ou superior
+. Permissões administrativas
+
+⚠️ Avisos Importantes
+. O script altera configurações de rede do sistema
+. Pode causar impacto em ambientes corporativos
+. Recomenda-se criar um ponto de restauração antes da execução
+
+---
+
+📈 Objetivo Técnico
+
+Melhorar a eficiência da pilha TCP/IP do Windows, reduzindo overhead de rede e otimizando o throughput e a latência.
+
+---
+
 ## 📂 Estrutura
 
 ```bash
